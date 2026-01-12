@@ -9,16 +9,6 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.1.3f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
-    "com.unity.collab-proxy@2.11.2": {
-      "name": "com.unity.collab-proxy",
-      "displayName": "Unity Version Control",
-      "resolvedPath": "C:\\Users\\lmk\\OneDrive\\Documents\\GitHub\\Project-Papaya\\papaya\\Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af",
-      "fingerprint": "1ec4e416a4af080c4db88ec03f1b37b1195b1761",
-      "editorCompatibility": "2021.3.0f1",
-      "version": "2.11.2",
-      "source": "registry",
-      "testable": false
-    },
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
       "displayName": "Engineering",
