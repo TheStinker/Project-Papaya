@@ -96,7 +96,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissionStrength: 10
+    - _EmissionStrength: 12
     - _EnvironmentReflections: 1
     - _FlowSpeed: 0.05
     - _GlossMapScale: 0
@@ -122,8 +122,8 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color1: {r: 0, g: 0.8773585, b: 0.863596, a: 1}
-    - _Color2: {r: 0.7264151, g: 0.18160377, b: 0.61958945, a: 1}
+    - _Color1: {r: 0, g: 0.9716981, b: 0.9543464, a: 1}
+    - _Color2: {r: 0.7830189, g: 0, b: 0.6309215, a: 1}
     - _Color3: {r: 1, g: 0.9823345, b: 0.0990566, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HDR_GLOW: {r: 0.8301887, g: 0.05873976, b: 0.8301887, a: 1}
