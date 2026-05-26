@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: New Material
+  m_Name: hue
   m_Shader: {fileID: -6465566751694194690, guid: aede00430ce5c7842a10a3a45f681acd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -96,7 +96,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissionStrength: 12
+    - _EmissionStrength: 3
     - _EnvironmentReflections: 1
     - _FlowSpeed: 0.05
     - _GlossMapScale: 0
